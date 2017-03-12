@@ -1,0 +1,33 @@
+body {
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+header {
+	margin-bottom: 30px;
+	text-align: center;
+	font: bold 35px 'Ubuntu Mono', monospace;
+	letter-spacing: 4px;
+}
+header > div {
+	text-align: left;
+	font: 16px 'Ubuntu Mono', monospace;
+	letter-spacing: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 1.5;
+}
+.Name {
+	text-align: center;
+	margin-top: 20px;
+	font: bold 20px 'Ubuntu Mono', monospace;
+	background-color: #C0C0C0;
+}
+div {
+	text-align: left;
+	font: 16px 'Ubuntu Mono', monospace;
+	letter-spacing: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 1.5;
+}
