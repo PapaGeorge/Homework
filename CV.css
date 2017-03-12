@@ -4,7 +4,7 @@ body {
 	margin-right: 100px;
 }
 header {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	text-align: center;
 	font: bold 35px 'Ubuntu Mono', monospace;
 	letter-spacing: 4px;
@@ -30,4 +30,9 @@ div {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	line-height: 1.5;
+}
+h1 {
+	padding-left: 50px;
+	font: bold 18px 'Ubuntu Mono', monospace;
+	background-color: #C0C0C0;
 }
