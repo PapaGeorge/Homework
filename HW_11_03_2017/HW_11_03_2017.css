@@ -1,0 +1,30 @@
+body {
+	margin: 0px;
+}
+header, footer {
+	background-color: #a6a6a6;
+}
+header {
+	list-style-type: none;
+}
+footer {
+	min-height: 300px;
+}
+li {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+}
+a.class1:active {
+	background-color: #0000FF;
+	font-size: 22px;
+}
+main {
+	background-color: #efeded;
+}
+p {
+	background-color: #a6a6a6;
+}
